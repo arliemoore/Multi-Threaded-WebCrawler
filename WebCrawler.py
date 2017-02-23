@@ -41,8 +41,6 @@ How to start MongoDB
 Command: cd C:\Program Files\MongoDB\Server\3.4\bin
 Command: mongod
 
-How to start Test Server
-Command: python -m http.server 3000
 '''
 from WebScraper import WebScraper
 from Link import Link
