@@ -28,7 +28,7 @@ threadCount --- executionTime --- pagesCrawled --- seconds per page
           8 ---       139.558 ---          181 ---            0.784
          16 ---       148.613 ---          178 ---            0.835
 
-Testing times for http://www.apple.com/ at depth 1
+Testing times for http://www.apple.com/ at depth 2
 threadCount --- executionTime --- pagesCrawled --- seconds per page
           1 ---      1722.648 ---         1572 ---            1.100     
           2 ---       951.568 ---         1572 ---            0.605
