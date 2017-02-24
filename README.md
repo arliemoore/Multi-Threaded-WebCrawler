@@ -41,7 +41,7 @@ specs.
 |              8|        139.558|           181|         0.784|
 |             16|        148.613|           178|         0.835|
 
-   Testing times for http://www.apple.com/ at depth 1
+   Testing times for http://www.apple.com/ at depth 2
 
 | Threads Count | executionTime | pagesCrawled | seconds/page |
 |--------------:|--------------:|-------------:|-------------:|
