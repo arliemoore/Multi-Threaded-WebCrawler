@@ -1,4 +1,4 @@
-# Multi-Threaded-WebCrawler\n
+# Multi-Threaded-WebCrawler
 
 Created by: Arlie Moore
 
