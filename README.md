@@ -7,16 +7,25 @@ and then add the information about these pages
 into MongoDB. The web crawling is carried out
 by threads which speed up execution time.
 
+
 Requirments:
+
 1. Python 3.4.3
 2. MongoDB 3.4
 4. pyMongo
 3. Beautiful Soup 4
 
+
 Below are some timing results from testing with 
 different thread counts. These times will vary
 depending on network speeds and computer
 specs. 
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 Testing times for 10 custom test webpages at depth 4
 threadCount --- executionTime --- pagesCrawled
