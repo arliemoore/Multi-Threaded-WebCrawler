@@ -21,13 +21,15 @@ different thread counts. These times will vary
 depending on network speeds and computer
 specs. 
 
+Testing times for 10 custom test webpages at depth 4
+
 | Threads Count | executionTime | pagesCrawled | seconds/page |
 |--------------:|--------------:|-------------:|-------------:|
-|              1|               |              |              |
-|              2|               |              |              |
-|              4|               |              |              |
-|              8|               |              |              |
-|             16|               |              |              |
+|              1|         10.263|            10|         1.026|
+|              2|          6.292|            10|         0.629|
+|              4|          5.281|            10|         0.528|
+|              8|          5.295|            10|         0.510|
+|             16|          5.304|            10|         0.530|
 
 
 
