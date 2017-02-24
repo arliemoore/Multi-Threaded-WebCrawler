@@ -22,7 +22,6 @@ depending on network speeds and computer
 specs. 
 
 Testing times for 10 custom test webpages at depth 4
-
 | Threads Count | executionTime | pagesCrawled | seconds/page |
 |--------------:|--------------:|-------------:|-------------:|
 |              1|         10.263|            10|         1.026|
