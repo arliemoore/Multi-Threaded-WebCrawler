@@ -21,11 +21,15 @@ different thread counts. These times will vary
 depending on network speeds and computer
 specs. 
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Threads Count | executionTime | pagesCrawled | seconds/page |
+|--------------:|--------------:|-------------:|-------------:|
+|              1|               |              |              |
+|              2|               |              |              |
+|              4|               |              |              |
+|              8|               |              |              |
+|             16|               |              |              |
+
+
 
 Testing times for 10 custom test webpages at depth 4
 threadCount --- executionTime --- pagesCrawled
