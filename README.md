@@ -21,7 +21,7 @@ different thread counts. These times will vary
 depending on network speeds and computer
 specs. 
 
-Testing times for 10 custom test webpages at depth 4
+1. Testing times for 10 custom test webpages at depth 4
 
 | Threads Count | executionTime | pagesCrawled | seconds/page |
 |--------------:|--------------:|-------------:|-------------:|
@@ -31,7 +31,7 @@ Testing times for 10 custom test webpages at depth 4
 |              8|          5.295|            10|         0.510|
 |             16|          5.304|            10|         0.530|
 
-Testing times for http://www.bbc.com/ at depth 1
+2. Testing times for http://www.bbc.com/ at depth 1
 
 | Threads Count | executionTime | pagesCrawled | seconds/page |
 |--------------:|--------------:|-------------:|-------------:|
@@ -41,7 +41,7 @@ Testing times for http://www.bbc.com/ at depth 1
 |              8|        139.558|           181|         0.784|
 |             16|        148.613|           178|         0.835|
 
-Testing times for http://www.apple.com/ at depth 1
+3. Testing times for http://www.apple.com/ at depth 1
 
 | Threads Count | executionTime | pagesCrawled | seconds/page |
 |--------------:|--------------:|-------------:|-------------:|
